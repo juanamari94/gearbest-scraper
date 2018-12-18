@@ -2,7 +2,7 @@
 
 ## What is it?
 
-It's a scraper for the online department store [GearBest][https://www.gearbest.com/], it scrapes the full site and stores it into a database, it also enriches the data by getting the language of the item reviews.
+It's a scraper for the online department store [GearBest](https://www.gearbest.com/), it scrapes the full site and stores it into a database, it also enriches the data by getting the language of the item reviews.
 
 ## Main features
 
